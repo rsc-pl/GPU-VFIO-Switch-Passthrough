@@ -1,3 +1,12 @@
+<div align="center">
+
+## **[ 🏠 Home ](./README.md)** | **[ 💾 Script Install ](./INSTALL.md)** | **[ ⚙️ Virtualization Setup Guide ](./Virtualization-Setup.md)** | **[ 🐛 Troubleshooting ](./FAQ.md)**
+
+</div>
+
+
+
+
 # 🔄 Stable VFIO/NVIDIA Switcher
 
 A robust, state-aware Bash script designed to dynamically switch an NVIDIA GPU between the Linux host (`nvidia`) and a Virtual Machine (`vfio-pci`) without rebooting. 
