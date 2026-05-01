@@ -1,3 +1,10 @@
+<div align="center">
+
+## **[ 🏠 Home ](./README.md)** | **[ 💾 Script Install ](./INSTALL.md)** | **[ ⚙️ Virtualization Setup Guide ](./Virtualization-Setup.md)** | **[ 🐛 Troubleshooting ](./FAQ.md)**
+
+</div>
+
+
 This document covers how to install and configure the script across different Linux distributions. Ensure you choose the correct version of the script for your OS before proceeding.
 
 ## Step 1: Find Your GPU IDs (All Systems)
