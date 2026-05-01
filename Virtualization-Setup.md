@@ -1,3 +1,10 @@
+<div align="center">
+
+## **[ 🏠 Home ](./README.md)** | **[ 💾 Script Install ](./INSTALL.md)** | **[ ⚙️ Virtualization Setup Guide ](./Virtualization-Setup.md)** | **[ 🐛 Troubleshooting ](./FAQ.md)**
+
+</div>
+
+
 Setting up a Dual-GPU passthrough (Host GPU + Work/Gaming GPU) with Looking Glass is one of the most advanced and rewarding projects you can do on Linux. It can be tricky, but this guide breaks it down step-by-step from a completely fresh install. 
 
 This guide assumes you are using your primary GPU (e.g., AMD Radeon W7500 Pro or an integrated GPU) for the Linux host, and passing through a secondary GPU (e.g., NVIDIA RTX 4090) to the virtual machine.
