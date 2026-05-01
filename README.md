@@ -19,6 +19,8 @@ This script safely handles:
 
 Because Linux distributions handle early-boot module loading (initramfs) differently, setup instructions vary depending on your OS. 
 
+**Please read the [Virtualization Setup Guide (Virtualization-Setup.md)](Virtualization-Setup.md)** for detailed instructions on how do you even get started with virtualization and set everything up if you're starting from scratch.
+
 **Please read the [Installation & Setup Guide (INSTALL.md)](INSTALL.md)** for detailed instructions on:
 1. Finding your specific hardware IDs.
 2. Installing prerequisites.
